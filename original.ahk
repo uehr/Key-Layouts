@@ -3,9 +3,7 @@
 ;----------------- QWERTY to Dvorak mapping
 #z::Suspend
 
--::\
-+-::_
-^::[
+
 q::vkBAsc028
 w::,
 e::.
@@ -16,7 +14,6 @@ u::g
 i::k
 o::r
 p::l
-[::/
 
 ;a::a
 s::o
@@ -29,6 +26,7 @@ k::t
 l::n
 `;::s
 vkBAsc028::-
+\::/
 
 z::`;
 x::q
