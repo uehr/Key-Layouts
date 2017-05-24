@@ -1,5 +1,5 @@
 ;----------------- QWERTY to Rakdao mapping
-*^+z::Suspend
+^+z::Suspend
 q::l
 w::r
 e::c
