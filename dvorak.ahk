@@ -1,5 +1,3 @@
-
-
 ;----------------- QWERTY to Dvorak mapping
 *^+x::Suspend
 
