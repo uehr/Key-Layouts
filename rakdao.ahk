@@ -1,5 +1,8 @@
-;----------------- QWERTY to Rakdao mapping
-^+z::Suspend
+;QWERTY to Rakdao mapping
+*^+z::Suspend
+
+-::@
+
 q::l
 w::r
 e::c
@@ -9,10 +12,8 @@ y::x
 u::k
 i::j
 o::q
-p::vkBAsc028
-+p::`;
-@::[
-[::]
+p::`;
+@::vkBAsc028
 
 a::s
 s::n
@@ -24,7 +25,7 @@ j::u
 k::e
 l::o
 `;::a
-'::-
+vkBAsc028::-
 
 x::v
 c::w
@@ -185,10 +186,9 @@ m::p
 *^+`::Send ^+`
 *^+q::Send ^+q
 *^+j::Send ^+j
-*^+k::Send ^+k
 *^+x::Send ^+x
+*^+k::Send ^+k
 *^+b::Send ^+b
 *^+m::Send ^+m
 *^+w::Send ^+w
 *^+v::Send ^+v
-*^+z::Send ^+z

@@ -189,7 +189,6 @@ m::m
 *^+q::Send ^+q
 *^+j::Send ^+j
 *^+k::Send ^+k
-*^+x::Send ^+x
 *^+b::Send ^+b
 *^+m::Send ^+m
 *^+w::Send ^+w
