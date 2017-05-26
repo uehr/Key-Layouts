@@ -2,17 +2,17 @@
 ## AutoHotKey用配列ファイル
 >DVORAK
 
-1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | - | ^ | /  
-　: | , | . | P | Y | F | G | K | R | L | @ | [  
-　　A | O | E | U | I | D | H | T | N | S | - | ]  
-　　　; | Q | J | C | X | B | M | W | V | Z | \
+    1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | - | ^ | /  
+     : | , | . | P | Y | F | G | K | R | L | @ | [  
+      A | O | E | U | I | D | H | T | N | S | - | ]  
+       ; | Q | J | C | X | B | M | W | V | Z | \
 
 >RAKDAO
 
-1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | @ | ^ | \  
-　L | R | C | G | F | X | K | J | Q | ; | : | [  
-　　S | N | T | H | D | I | U | E | O | a | - | ]  
-　　　Z | V | W | M | B | Y | P | , | . | / |  
+    1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | @ | ^ | \  
+     L | R | C | G | F | X | K | J | Q | ; | : | [  
+      S | N | T | H | D | I | U | E | O | a | - | ]  
+       Z | V | W | M | B | Y | P | , | . | / | \
 
 ・どの配列もctrl,windowsキー,altキー押下時にはqwerty配列に戻るよう設定してあります。
 
