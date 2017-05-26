@@ -1,5 +1,5 @@
 # key-layouts
-<h2>AutoHotKey用配列</h2>
+## AutoHotKey用配列
 >DVORAK
 
     1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | - | ^ | /  
