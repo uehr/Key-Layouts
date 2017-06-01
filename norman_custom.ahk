@@ -7,7 +7,7 @@
 ;w::w
 e::d
 r::k
-t::h
+t::f
 y::j
 u::u
 i::r
@@ -24,7 +24,7 @@ h::y
 j::n
 k::i
 l::o
-`;::f
+`;::h
 vkBAsc028::-
 
 ;z::z
