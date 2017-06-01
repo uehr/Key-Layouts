@@ -24,8 +24,8 @@
 >NORMAN_CUSTOM
 
     1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | @ | ^ | \  
-     Q | W | D | K | H | J | U | R | L | ; | : | [  
-      A | S | E | T | G | Y | N | I | O | F | - | ]  
+     Q | W | D | K | F | J | U | R | L | ; | : | [  
+      A | S | E | T | G | Y | N | I | O | H | - | ]  
        Z | X | C | B | V | P | M | , | . | / | \
     ※norman配列のカスタムバージョン
 
