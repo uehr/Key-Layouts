@@ -30,8 +30,8 @@ vkBAsc028::-
 ;z::z
 ;x::x
 ;c::c
-v::b
-b::v
+;v::v
+;b::b
 n::p
 ;m::m
 
