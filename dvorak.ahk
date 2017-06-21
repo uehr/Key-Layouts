@@ -1,5 +1,5 @@
 ;----------------- QWERTY to Dvorak mapping
-^+x::Suspend
+*^+a::Suspend
 
 q::vkBAsc028
 w::,
