@@ -31,7 +31,7 @@
     (norman配列をベースに、コーディング時に多用するキーをより優位な位置に設置)
 
 ・ctrl + shift + A　でスクリプトのon/offをトグル可能です。  
-・ctrl,windowsキー,altキー押下時にはqwerty配列に戻るよう設定してあります。  
+・ctrl, windowsキー, altキー押下時にはqwerty配列に戻るよう設定してあります。  
 ・記号類に関しては僕の好みで配置している為、オリジナルの位置とは異なる場合があります、ご容赦下さい。  
 ・[こちら](https://github.com/snowlt23/dvorak-ahk)を参考にし、制作しました、Dvorak配列に関してはそちらが充実しております。  
 ・ahkのスクリプトを解析してキー配列のビジョンを出力する[こちらの](https://github.com/yudai-uehara/AhkViewer)ソフトウェアを開発致しました。
