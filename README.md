@@ -29,6 +29,15 @@
       A  S  E  T  G  Y  N  I  O  H  :  ]
        Z  X  C  B  V  P  M  ,  .  /  \
 
+>SPACIALKEY
+
+    変換キー -> Enter
+    capslk -> Backspace
+    @ -> [
+    [ -> ]
+    ] -> :
+    - -> @
+    
 ・ctrl + shift + A　でスクリプトのon/offをトグル可能です。  
 ・ctrl, windowsキー, altキー押下時にはqwerty配列に戻るよう設定してあります。   
 ・記号等の配置に関してはオリジナルとの誤差がある場合がございます、ご容赦下さい。  
