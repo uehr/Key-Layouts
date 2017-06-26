@@ -1,7 +1,5 @@
 ;QWERTY to Rakdao mapping
-*^+z::Suspend
-
--::@
+*^+a::Suspend
 
 q::l
 w::r
@@ -13,7 +11,6 @@ u::k
 i::j
 o::q
 p::`;
-@::vkBAsc028
 
 a::s
 s::n
@@ -25,7 +22,6 @@ j::u
 k::e
 l::o
 `;::a
-vkBAsc028::-
 
 x::v
 c::w

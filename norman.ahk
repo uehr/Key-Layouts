@@ -1,7 +1,5 @@
-;----------------- QWERTY to Norman mapping
+;QWERTY to Norman mapping
 *^+a::Suspend
-
--::@
 
 ;q::q
 ;w::w
@@ -13,8 +11,6 @@ u::u
 i::r
 o::l
 p::`;
-@::[
-[::]
 
 ;a::a
 ;s::s
@@ -26,8 +22,6 @@ j::n
 k::i
 l::o
 `;::h
-vkBAsc028::-
-]::vkBAsc028
 
 ;z::z
 ;x::x
@@ -36,9 +30,6 @@ vkBAsc028::-
 ;b::b
 n::p
 ;m::m
-
-sc03a::Backspace
-sc079::enter
 
 ;----------------- CTRL KEY
 
