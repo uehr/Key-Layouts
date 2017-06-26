@@ -13,7 +13,8 @@ u::u
 i::r
 o::l
 p::`;
-@::vkBAsc028
+@::[
+[::]
 
 ;a::a
 ;s::s
@@ -26,6 +27,7 @@ k::i
 l::o
 `;::h
 vkBAsc028::-
+]::vkBAsc028
 
 ;z::z
 ;x::x
@@ -34,6 +36,9 @@ vkBAsc028::-
 ;b::b
 n::p
 ;m::m
+
+sc03a::Backspace
+sc079::enter
 
 ;----------------- CTRL KEY
 
