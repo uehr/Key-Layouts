@@ -22,7 +22,7 @@
       A  S  E  T  G  Y  N  I  O  H  -  ]  
        Z  X  C  V  B  P  M  ,  .  /  \
 
->MY_LAYOUT(norman配列拡張版
+>MY_LAYOUT (norman配列拡張版
 
     1  2  3  4  5  6  7  8  9  0  -  ^  \
      Q  W  D  K  F  J  U  R  L  ;  @  [
