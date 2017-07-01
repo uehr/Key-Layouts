@@ -22,22 +22,12 @@
       A  S  E  T  G  Y  N  I  O  H  -  ]  
        Z  X  C  V  B  P  M  ,  .  /  \
 
->MY_LAYOUT (norman配列拡張版
-
-    1  2  3  4  5  6  7  8  9  0  -  ^  \
-     Q  W  D  K  F  J  U  R  L  ;  @  [
-      A  S  E  T  G  Y  N  I  O  H  :  ]
-       Z  X  C  B  V  P  M  ,  .  /  \
 
 >SPACIALKEY
 
     ctrl + shift + s -> on/off切り替え
     変換キー -> Enter
     capslk -> Backspace
-    @ -> [
-    [ -> ]
-    ] -> :
-    - -> @
 
 ・ctrl + shift + A　でスクリプトのon/offをトグル可能です。  
 ・ctrl, windowsキー, altキー押下時にはqwerty配列に戻るよう設定してあります。   
