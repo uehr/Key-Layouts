@@ -1,6 +1,8 @@
 ;----------------- QWERTY to Dvorak mapping
 *^+a::Suspend
 
+-::@
+
 q::vkBAsc028
 w::,
 e::.
@@ -11,6 +13,7 @@ u::g
 i::k
 o::r
 p::l
+@::/
 
 ;a::a
 s::o
