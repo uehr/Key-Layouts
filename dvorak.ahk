@@ -29,9 +29,9 @@ vkBAsc028::-
 
 z::`;
 x::q
-c::j
+c::x
 v::c
-b::x
+b::j
 n::b
 m::m
 ,::w
