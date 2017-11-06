@@ -1,43 +1,42 @@
-;QWERTY to Norman mapping
+;----------------- QWERTY to Dvorak mapping
 *^+a::Suspend
 
-;vhk_start
-
 -::@
-@::vkBAsc028
 
-;q::q
-;w::w
-e::d
-r::f
-t::k
-y::j
+q::vkBAsc028
+w::,
+e::.
+r::w
+t::g
+y::f
 u::u
-i::r
-o::l
-p::`;
+i::k
+o::r
+;p::p
+@::/
 
-;a::a
-;s::s
-d::e
-f::t
-;g::g
-h::y
-j::n
-k::i
+a::d
+s::n
+d::t
+f::h
+g::y
+h::i
+j::a
+k::e
 l::o
-`;::h
+`;::s
 vkBAsc028::-
 
-;z::z
-;x::x
-;c::c
-;v::v
-;b::b
-n::p
-;m::m
-
-;vhk_end
+z::`;
+x::q
+c::x
+v::c
+b::j
+n::m
+m::b
+,::l
+.::v
+/::z
 
 ;----------------- CTRL KEY
 
@@ -161,7 +160,9 @@ n::p
 
 ;----------------- CTRL-SHIFT KEY
 
+*^+[::Send ^+[
 *^+]::Send ^+]
+
 *^+'::Send ^+'
 *^+,::Send ^+,
 *^+.::Send ^+.
