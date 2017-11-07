@@ -27,8 +27,8 @@
 
      1  2  3  4  5  6  7  8  9  0  @  ^  \
       Q  ,  .  R  T  Y  U  I  O  P  [  ]
-       A  S  E  F  G  H  J  K  L  D  -  :
-        /  X  C  V  B  N  M  W  ;  Z  \
+       A  S  E  F  G  H  J  K  w  D  -  :
+        /  X  C  V  B  N  M  l  ;  Z  \
 
 左手への負荷を軽減した右利き用qwerty
 
